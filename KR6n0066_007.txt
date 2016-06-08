@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:23.268939
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 攝大乘講疏卷第五．第七
 #+PROPERTY: CBETA_ID T85n2805
 #+PROPERTY: ID KR6n0066

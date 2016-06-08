@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:23.232987
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 攝大乘講疏卷第五．第七
 #+PROPERTY: CBETA_ID T85n2805
 #+PROPERTY: ID KR6n0066
@@ -477,7 +477,7 @@ No.2805[cf.No.1595]¶
 明無種子故言無。次後明能作種子心亦無¶
 故言無作亦無也。¶
 
-4差別品
+* 4差別品
 :PROPERTIES:
 :head: 差別品第四
 :END:
