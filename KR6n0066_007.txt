@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:57:23.268939
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 攝大乘講疏卷第五．第七
 #+PROPERTY: CBETA_ID T85n2805
 #+PROPERTY: ID KR6n0066
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2805
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0066_T_000-0982b>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6n0066_T_007-0990b> ¶¶¶¶¶
 #+PROPERTY: JUAN 7
 ¶
 ¶
-
- 攝大乘論疏卷第七¶
+攝大乘論疏卷第七¶
 ¶
 
 事善知識即是生行解力。□□□□□云¶
@@ -518,7 +517,7 @@
 別釋中釋第一勝時果云。捨凡夫二乘位始¶
 得菩薩真位。前十解中雖名聖。未得不二之¶
 真聖猶故。是假名菩薩。未得斷凡夫性以身¶
-猶未得常住法身故。同凡夫二乘各各差別¶
+猶未得常住法身故。同凡夫二乘各名差別¶
 妄想法為身故也。初地得理無二法身智無¶
 二常住法身方是真聖位。異地前假名也。釋¶
 第二云。捨自愛名歡。生他愛名喜者。除貪¶
